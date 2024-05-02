@@ -13,5 +13,7 @@ Usei o "ChatGPT" para escrever um pequeno texto sobre IAs. O "D-ID" foi essencia
 ## 🚀 Resultados
 O video gerado leva informação e curiosidade de aprofundar o conhecmento ao espectador
 
+Link do video https://studio.d-id.com/share?id=d83d91eab2d1c8ba99a8aac8090a2575&utm_source=copy
+
 ## 💭 Reflexão (Opcional)
 O desenvolvimento desse projeto mostra IAs podem nos ajudar no dia-a-dia e também os cuidados que devemos ter com a utilização das mesmas. 
